@@ -6,7 +6,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="width="100px;" alt=""/><br /><sub><b></b>팀원1</sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://i.namu.wiki/i/CmCZLytvpZ7PsjkQBumA3CYtnI6hygB0y4qYr8Sj3DVP5GOz3rUX51Y76ArWrZx4R0cJiQkMF3GjDxx-CJfqWbz6da6i1lvq9LVD85vc0C-h3J3OmaMtCSxwWsrRoE97vwXIrNpdyOQmfI4nYv_btQ.webp" width="100px;" alt=""/><br /><sub><b></b>팀원1</sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b></b>팀원2</sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b></b>팀원3</sub></a><br /></td>
     </tr>
